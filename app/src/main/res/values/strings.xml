@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMS App</string>
+    <string name="to">Recipient:</string>
+    <string name="content">Content:</string>
+</resources>
